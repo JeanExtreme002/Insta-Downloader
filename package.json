@@ -1,0 +1,16 @@
+{
+  "name": "insta-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Loui Bernard Silva de Jesus",
+  "license": "ISC"
+}
